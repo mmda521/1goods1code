@@ -1,0 +1,1112 @@
+.html,.index_Bg{
+    width: 3.2rem;
+}
+.Margin-left{
+    margin-left:.128rem
+}
+.Pos{
+    position: relative;
+}
+.Pob{
+    position: absolute;
+}
+.Margin_top{
+    margin-top: .128rem;
+}
+.index_Bg{
+    background: url("../Image/YOHo/index_bg.png") no-repeat center;
+    background-size: 100% 100%;
+    font-size: .1rem;
+}
+.index_Bg_Logo{
+    width:.4437rem ;
+    height:.4138rem ;
+    margin-top:.1706rem;
+}
+.Get_act button{
+    background: 0;
+    border: 0;
+    font-size:.1706rem ;
+    color: #fff;
+    text-align: center;
+    top:0%;
+    outline: none;
+    width: .793596rem;
+    height:.38399rem;
+    line-height: .38399rem;
+}
+.get-bottom{
+    text-align: center;
+    font-size: .13653rem;
+    padding-top: .128rem;
+}
+
+
+.bod-boder{
+    width: .1rem;
+    height: .3rem;
+    border-right: 1px solid #fff;
+    left:65%;
+    top:10%
+}
+.About_erweima .scan_er{
+ /*   margin-right: .228rem;*/
+}
+.About_erweima{
+    width: 100%;
+    margin-top: 0 !important;
+}
+.About_erweima .YongHe_er{
+    margin-left: .228rem!important;
+}
+
+.cash-span{
+    font-size:.1023rem ;
+    color:#333;
+}
+.index_sign{
+    top:.1877rem;
+    width:2.316rem ;
+    height:2.287rem;
+}
+.index_bag_close,.index_bag_Open{
+    width:1.1007rem ;
+    top:3.3rem;
+    z-index: 0;
+    height:.862rem ;
+    left:1.05rem
+}
+.Ani_Open{
+    -webkit-animation: Open ease .6s 1;
+    -o-animation: Open ease .6s 1;
+    animation: Open ease .6s 1;
+    animation-delay: .1s;
+}
+.Ani_Close{
+    -webkit-animation: Close ease .01s 1;
+    -o-animation: Close ease .01s 1;
+    animation: Close ease .01s 1;
+
+}
+@-webkit-keyframes Open {
+
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+
+}
+
+@-o-keyframes Open {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+
+
+
+}
+
+@-moz-keyframes  Open{
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+
+}
+
+@keyframes Open {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+
+
+
+@-webkit-keyframes Close {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+
+}
+
+@-o-keyframes Close-Open {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+
+
+}
+
+@-moz-keyframes Close-Open {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+
+
+}
+
+@keyframes Close-Open {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+@-webkit-keyframes Gift {
+    0% {
+        -webkit-transform: scale(0);
+        -o-transform: scale(0);
+        -ms-transform: scale(0);
+        -moz-transform: scale(0);
+        transform: scale(0);
+        opacity: 0;
+        top:2.8rem;
+    }
+    100% {
+        -webkit-transform: scale(1);
+        -o-transform: scale(1);
+        -ms-transform: scale(1);
+        -moz-transform: scale(1);
+        transform: scale(1);
+        opacity: 1;
+        top:1.8147rem
+    }
+
+}
+
+@-o-keyframes Gift {
+    0% {
+        -webkit-transform: scale(0);
+        -o-transform: scale(0);
+        -ms-transform: scale(0);
+        -moz-transform: scale(0);
+        transform: scale(0);
+        opacity: 0;
+        top:2.8rem;
+    }
+    100% {
+        -webkit-transform: scale(1);
+        -o-transform: scale(1);
+        -ms-transform: scale(1);
+        -moz-transform: scale(1);
+        transform: scale(1);
+        opacity: 1;
+        top:1.8147rem
+    }
+
+
+
+}
+
+@-moz-keyframes Gift {
+    0% {
+        -webkit-transform: scale(0);
+        -o-transform: scale(0);
+        -ms-transform: scale(0);
+        -moz-transform: scale(0);
+        transform: scale(0);
+        opacity: 0;
+        top:2.8rem;
+    }
+    100% {
+        -webkit-transform: scale(1);
+        -o-transform: scale(1);
+        -ms-transform: scale(1);
+        -moz-transform: scale(1);
+        transform: scale(1);
+        opacity: 1;
+        top:1.8147rem
+    }
+
+
+
+}
+
+@keyframes Gift {
+    0% {
+        -webkit-transform: scale(0);
+        -o-transform: scale(0);
+        -ms-transform: scale(0);
+        -moz-transform: scale(0);
+        transform: scale(0);
+        opacity: 0;
+        top:2.8rem;
+    }
+    100% {
+        -webkit-transform: scale(1);
+        -o-transform: scale(1);
+        -ms-transform: scale(1);
+        -moz-transform: scale(1);
+        transform: scale(1);
+        opacity: 1;
+        top:1.8147rem
+    }
+}
+.index_gift{
+    width:1.84319rem ;
+    height:1.6554rem ;
+    top:1.8147rem;
+    left:.7245rem;
+    z-index: 333;
+    -webkit-animation: Gift ease 1.1s 1;
+    -o-animation: Gift ease 1.1s 1;
+    animation: Gift ease 1.1s 1;
+}
+.None{
+    display:none
+}
+.index_btn{
+   bottom:.3rem;
+    position: fixed;
+    z-index: 10;
+}
+.btn_one{
+    width: .7594rem;
+    height:.256rem ;
+    float: left;
+}
+.btn_one:nth-of-type(1){
+    margin:0 .2389rem 0 .2219rem;
+    background: url("../Image/YOHo/index_btn_one.png") no-repeat center;
+    background-size: 100% 100%;
+}
+.btn_one:nth-of-type(2){
+    margin-right:.2219rem;
+    background: url("../Image/YOHo/index_btn_two.png") no-repeat center;
+    background-size: 100% 100%;
+}
+.btn_one:nth-of-type(3){
+    background: url("../Image/YOHo/index_btn_three.png") no-repeat center;
+    background-size: 100% 100%;
+}
+
+.Fixed{
+    position: fixed;
+}
+.Marque_bot{
+    height:.26rem;
+    background: #000;
+    opacity: .1;
+    left: 0;
+    z-index: 1;
+    bottom: 0;
+}
+
+.Marque_bottom{
+    width: 5rem;
+    bottom: 0;
+    font-size:.1024rem ;
+    height:.26rem;
+    color: #fff;
+    left: 0;
+    line-height: .26rem;
+    overflow-x: auto;
+}
+.Left{
+    position: fixed;
+    top:0;
+    right: 0;
+    z-index: 4460;
+
+}
+.Left img{
+    width: .2176rem;
+    height:.785rem;
+    margin-top:2.25rem;
+}
+#marquee{width:2.9rem;overflow:hidden;margin-left: .15rem }
+#marquee ul li{float:left; padding:0 10px; }
+.Zhezhao{
+    top:0;
+    background: #000;
+    opacity: .5;
+    filter: alpha(opacity:.1);
+    width: 3.2rem;
+    z-index: 444;
+}
+.Alert_details{
+    position: absolute;
+    top:0;
+    z-index: 446;color: #fff;
+    width: 3.2rem;
+    text-align: center;
+}
+.Alert_details h4{
+    font-size: .1536rem;
+    padding-top: .256rem;
+}
+.Alert_details_con{
+    height: 85%;
+    width: 2.944rem;
+    margin-left: .128rem;
+    background:url("../Image/YOHo/Kuang.png") no-repeat center;
+    background-size: 100% 100%;
+    margin-top: .138rem;
+    z-index: 1;
+}
+.Activity_rules{
+    width:.8rem ;
+    height:.3rem;
+    line-height: .3rem;
+    top:.16rem;
+    left:37%;
+}
+/*��д�콱��Ϣ*/
+.get_prize_top{
+    width: 3.2rem;
+    height:.4266rem;
+    background: #e42023;
+    text-align: center;
+    font-size: .1536rem;
+    line-height:.4266rem;
+    color: #fff;
+}
+.get_prize_top img{
+    width: .0895rem;
+    height:.157865rem;
+    top:.13436rem;
+    left:.128rem;
+}
+.Margin_T{
+    margin-top: .213rem;
+}
+.get_prize_con{
+    width: 2.816rem;
+    height:.384rem;
+    font-size: .136532rem;
+    margin-left:.192rem;
+    line-height:.384rem;
+}
+.get_prize_con .Oimg{
+    width: .789rem;
+    height:.418rem;
+
+    float: left;
+    font-size:.136532rem;
+}
+.get_prize_con span{
+   left:.128rem;
+   color: #a6161b;
+}
+.get_prize_con img{
+    width: .789rem;
+    height:.418rem;
+    margin-right: 0;
+    left:0;
+    top:0;
+    z-index: 0;
+
+}
+.Input_getPrize{
+    border-bottom-right-radius: 100px;
+    width:2rem ;
+    height:.375rem;
+    border-top-right-radius: 100px;
+    border: 1px solid #666;
+    border-left: 0;
+    float: left;
+    margin-left:-.01rem;
+    margin-top:.01rem
+}
+.get_prize_con input{
+    font-size:.136532rem;
+    width:1.627rem ;
+    height:.33rem;
+    border:0;
+    outline: none;
+    padding-left: .128rem;
+    text-align: center;
+}
+.get_prize_btn{
+    width: 2.85rem;
+    margin-left:.175rem ;
+    height: .418rem;
+    background: url("../Image/YOHo/get_prize_btn.png") no-repeat center;
+    border-radius: 100px;
+    margin-top: .64rem;
+    font-size:.1365rem ;
+    color: #a6161b;
+    text-align: center;
+    line-height:.418rem;
+}
+
+/*�ҵĽ�Ʒ*/
+
+.Body{
+    background:#eee ;
+}
+.My_prize_top{
+    width: 3.2rem;
+    height: .4266rem;
+    background: #fff;
+    margin:.0853rem 0 .0425rem 0;
+    font-size:.1365rem ;
+    line-height:.4266rem;
+    text-align: center;
+}
+.My_prize_top h4{
+
+    float: left;
+    padding-left: .128rem;
+
+}
+.My_prize_top img{
+    float: right;
+    width: .0895rem;
+    height:.1578rem;
+    margin-right: .128rem;
+    margin-top: .128rem;
+
+
+}
+.My_prize_top span{
+    float: right;
+
+}
+.My_prize_top span:nth-of-type(1){
+    color: #e42023;
+    margin-right:.2rem
+}
+
+.my_prize_con{
+    width: 3.2rem;
+    height: 1.322rem;
+    margin-top:.04rem ;
+}
+.Detalis_img{
+    left:0;
+    top:0;
+    width: 3.2rem;
+    height: 1.322rem;
+}
+.Yin_png{
+    bottom: 0;
+    left: 0;
+    width: 3.2rem;
+    height:.6954rem;
+}
+.my_prize_span{
+    bottom: .1rem;
+    font-size:.1365rem ;
+    color: #fff;
+    font-weight: bold;
+    left:.128rem;
+    width: 2.9rem;
+}
+.my_prize_span p{
+  margin-top: .1023rem;
+}
+.my_prize_span p span:nth-of-type(1){
+   float: left;
+}
+.my_prize_span p a {
+    float: right;
+    color: #fff;
+    text-decoration: underline;
+}
+.my_prize_span p span {
+    float: right;
+    color: #fff;
+}
+.Html{
+    padding-bottom: .1rem;
+}
+
+.None_account{
+    font-size: .136532rem;
+    text-align: center;
+    position: absolute;
+    left: 35%;
+    top:25%
+}
+.details-T{
+    margin-top:.5066rem;
+}
+.top-myprize{
+    position: fixed;;
+    top:0;
+    left:0;
+    z-index: 23123123131;
+}
+.None_account span{
+    display: block;
+    padding-top: 1.5rem;
+}
+.Details{
+    padding-bottom: .1rem;
+}
+.my-prize{
+    margin-top: .5066rem;
+}
+.Get_act{
+    width: 2.816rem;
+    height:.384rem;
+    border: 1px solid #fff;
+    border-radius: 100px;
+    top:1.12rem;
+    margin-left: .192rem;
+    line-height: .384rem;
+}
+.Act_Code{
+    width: 70%;
+    height:.24rem;
+    background: 0;
+    border: 0;
+    font-size: .145rem;
+    text-align: center;
+    outline: none;
+    color: #fff;
+}
+
+.Get_act_Img{
+    font-size: .1rem;
+    top:1.674rem;
+    margin-left:.3265rem ;
+}
+.Get_act_Img img{
+    width: 2.547rem;
+    height:3.03rem ;
+}
+/*����ȯ*/
+.Cash{
+    font-size: .1rem;
+}
+.Cash img{
+    width: 2.95rem;
+    margin-left: .1258rem;
+    height:.977rem ;
+    margin-top: .085rem;
+}
+.None_account_cash{
+    left: 32%;
+}
+.None_account_cash span{
+    display: block;
+}
+.Opacity_Bg{
+    position: absolute;
+    top:0;
+    width: 3.2rem;
+    z-index: 443;
+}
+.Alert_details_con{
+    font-size: .11946rem;
+    text-align: left;
+    overflow: auto;
+
+}
+.Alert_details_con p{
+    margin: 0 .128rem;
+    padding: .068rem 0;
+    line-height: 1.5;
+
+}
+
+.Alert_details_con p:nth-of-type(1) {
+
+    margin: 0 .128rem;
+    line-height: 1.5;
+    padding-top: .25rem;
+}
+.Alert_details_con span{
+
+   color: #f8ce00;
+    margin: 0 .128rem;
+
+}
+.Details_text{
+    padding-bottom: .2645rem;
+}
+.explain{
+    text-align: center;
+    font-size: .1023rem;
+}
+.More_bottom{
+    width:.1408rem ;
+    height:.1024rem ;
+}
+.explain img{
+    padding: .12rem 0;
+    -webkit-animation: More_bottom ease 1s infinite;
+    -o-animation: More_bottom ease 1s infinite;
+    animation: More_bottom ease 1s infinite;
+}
+
+@-webkit-keyframes More_bottom {
+    0% {
+       opacity: 0;
+       transform: translateY(.2rem);
+    }
+    100% {
+         opacity: 1;
+         transform: translateY(0rem);
+    }
+
+}
+
+@-o-keyframes More_bottom {
+    0% {
+        opacity: 0;
+        transform: translateY(.2rem);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0rem);
+    }
+}
+
+@-moz-keyframes More_bottom {
+    0% {
+        opacity: 0;
+        transform: translateY(.2rem);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0rem);
+    }
+
+}
+
+@keyframes More_bottom {
+    0% {
+        opacity: 0;
+        transform: translateY(.2rem);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0rem);
+    }
+
+}
+
+
+/*��ע����*/
+.text_align{
+    margin-top: .367rem;
+}
+.About_Bg{
+    text-align: center;
+}
+.About_Bg .text_align{
+    width: .9386rem;
+    height:.88379rem;
+}
+.About_er{
+    margin-top:.7338rem ;
+    font-size: .1rem;
+  /*  background: url("../Image/YOHo/saomiao.png") no-repeat center;
+    background-size:100% 100%;*/
+    height: 1.241rem;
+    margin-left:.38rem;
+    width: 2.397rem;
+}
+.saomiao{
+    height: 1.241rem;
+    left:0;
+    top:0;
+    width: 2.397rem;
+    z-index: 23131;
+}
+.About_erweima{
+    margin-left:.28rem;
+}
+.About_er .YongHe_er{
+    width: 1.1818rem;
+    height: 1.241rem;
+    float: left;
+    margin-left: .4rem;
+}
+.scan_er{
+    width: .9258rem;
+    height:1.1989rem ;
+    float: right;
+    z-index: 0;
+    text-align: center;
+    margin-left: .2986rem;
+    position: relative;
+}
+.saom-t{
+    top:40%;
+    left:13%;
+}
+
+.scan_er img{
+     position: absolute;
+     width: .857rem;
+     height: .2218rem;
+    left: .02rem;
+    -webkit-animation:scan_er 2s ease infinite ;
+    -o-animation:scan_er 2s ease infinite ;
+    animation:scan_er 2s ease infinite ;
+}
+
+@-webkit-keyframes scan_er {
+    0% {
+        top:0;
+    }
+    100% {
+        top:80%
+    }
+
+}
+
+@-o-keyframes scan_er {
+    0% {
+        top:0
+    }
+    100% {
+        top:80%
+    }
+}
+
+@-moz-keyframes scan_er {
+    0% {
+        top:0
+    }
+    100% {
+        top:80%
+    }
+}
+
+@keyframes scan_er {
+    0% {
+        top:0
+    }
+    100% {
+        top:80%
+    }
+
+}
+.Long_press{
+    width: 3.2rem;
+    font-size: .136532rem;
+    margin-top: 1.023rem;
+    text-align: center;
+    color: #fff;
+}
+.abot_bottom{
+    width: 3.2rem;
+    height: .2rem;
+    line-height: .05rem;
+    margin-top: .13093rem;
+}
+.abot_bottom .Left_xuxian,.abot_bottom span,.abot_bottom .right_xuxian{
+    float: left;
+    color: #fff;
+}
+.abot_bottom span{
+    margin:0 .11093rem ;
+    font-size: .136532rem;
+}
+.abot_bottom .Left_xuxian,.abot_bottom .right_xuxian{
+   width: .8533rem;
+}
+
+/*ҡ��ҳ��*/
+.YaoJiang_top{
+    width: 3.2rem;
+    text-align: center;
+    font-size: .1rem;
+
+}
+.YaoJiang_top img{
+    width: 2.7135rem;
+    height: .40533rem;
+    margin-top: .247rem;
+}
+.yaojiang_Img{
+    font-size: .1rem;
+    top:.9rem;
+
+}
+.yaojiang-one{
+    -webkit-animation: Yaojiang .25s ease 2;
+    -o-animation: Yaojiang .25s ease 2;
+    animation: Yaojiang .25s ease 2;
+
+}
+
+.YaoJiang_T{
+    -webkit-animation: Yaojiang_t .2s ease 2;
+    -o-animation: Yaojiang_t .2s ease 2;
+    animation: Yaojiang_t .2s ease 2;
+}
+@-webkit-keyframes Yaojiang_t {
+    0% {
+        top:.2rem
+    }
+    100% {
+        top:.9rem;
+    }
+
+}
+
+@-o-keyframes Yaojiang_t {
+    0% {
+        top:.2rem
+    }
+    100% {
+        top:.9rem;
+    }
+
+}
+
+@-moz-keyframes Yaojiang_t {
+    0% {
+        top:.2rem
+    }
+    100% {
+        top:.9rem;
+    }
+
+}
+
+@keyframes Yaojiang_t {
+    0% {
+        top:.2rem
+    }
+    100% {
+        top:.9rem;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+@media (max-height: 480px) {
+    .yaojiang_Img{
+        top:.6rem;
+    }
+
+}
+@media (max-height: 480px) {
+    .yaojiang_botom{
+      bottom:.1rem !important;
+    }
+
+}
+.yaojiang_Img,.yaojiang_Img img{
+    width:3.2rem ;
+    height: 3.9310rem;
+}
+.yaojiang_Img img {
+    -webkit-animation: Yaojiang_t .3s ease 2;
+    -o-animation: Yaojiang_t .3s ease 2;
+    animation: Yaojiang_t .3s ease 2;
+    animation-delay: 10s;
+}
+
+
+@-o-keyframes Yaojiang {
+    0% {
+        top:.2rem
+    }
+    100% {
+        top:.9rem;
+    }
+
+}
+
+@-moz-keyframes Yaojiang {
+    0% {
+        top:.2rem
+    }
+    100% {
+        top:.9rem;
+    }
+
+}
+
+@keyframes Yaojiang {
+    0% {
+        top:.2rem
+    }
+    100% {
+        top:.9rem;
+    }
+
+}
+
+
+
+.yaojiang_botom{
+    bottom:.2815rem ;
+    width: 3.2rem;
+    height: .4735rem;
+    text-align: center;
+}
+.yaojiang_botom img{
+    width: 2.624rem;
+    height: .4735rem;
+    -webkit-animation: qqswing 1s ease 2;
+    -o-animation: qqswing 1s ease 2;
+    animation: qqswing 1s ease 2;
+}
+
+
+@-webkit-keyframes qqswing {
+    20%,40%,60%,80%,100%{-webkit-transform-origin:top center}
+    20%{-webkit-transform:rotate(10deg)}
+    40%{-webkit-transform:rotate(-5deg)}
+    60%{-webkit-transform:rotate(5deg)}
+    80%{-webkit-transform:rotate(-5deg)}
+    100%{-webkit-transform:rotate(0deg)}
+}
+
+@-o-keyframes qqswing {
+    20%,40%,60%,80%,100%{-webkit-transform-origin:top center}
+    20%{-webkit-transform:rotate(10deg)}
+    40%{-webkit-transform:rotate(-5deg)}
+    60%{-webkit-transform:rotate(5deg)}
+    80%{-webkit-transform:rotate(-5deg)}
+    100%{-webkit-transform:rotate(0deg)}
+
+}
+
+@-moz-keyframes qqswing {
+    20%,40%,60%,80%,100%{-webkit-transform-origin:top center}
+    20%{-webkit-transform:rotate(10deg)}
+    40%{-webkit-transform:rotate(-5deg)}
+    60%{-webkit-transform:rotate(5deg)}
+    80%{-webkit-transform:rotate(-5deg)}
+    100%{-webkit-transform:rotate(0deg)}
+}
+
+@keyframes qqswing {
+    20%,40%,60%,80%,100%{-webkit-transform-origin:top center}
+    20%{-webkit-transform:rotate(10deg)}
+    40%{-webkit-transform:rotate(-5deg)}
+    60%{-webkit-transform:rotate(5deg)}
+    80%{-webkit-transform:rotate(-5deg)}
+    100%{-webkit-transform:rotate(0deg)}
+
+}
+.Yaojiang_Opacity{
+    left:0
+}
+.Yaojiang_zhezhao{
+    left:0
+}
+.Yaojiang_prize{
+   top:0;
+    z-index: 1111;
+    font-size: .1rem;
+}
+
+.Yaojiang_prize,.Yaojiang_prize img{
+    width: 3.2rem;
+    height:4.35rem;
+}
+.ClosePrize_btn {
+    z-index: 1111;
+    top:.6655rem;
+    right:.3157rem;
+    font-size: .1rem;
+}
+.ClosePrize_btn,.ClosePrize_btn img{
+    width: .256rem;
+    height:.256rem
+}
+.prize_Mon{
+    font-size: .2047rem;
+    top:1.7rem;
+    color: #ff4200;
+    left:.45rem;
+    font-weight: bold;
+}
+.prize_ten{
+    left:43%;
+    bottom: 1rem;
+    font-size: .2133rem;
+    color: #a7191f;
+    font-weight: bold;
+}
+
+/**
+add at 2016/11/03 by XiangZhao
+**/
+p.prize-tip {
+    position: relative;
+    margin-top: -0.65rem;
+    color: red;
+    margin-left:0.65rem
+}
+
+
+.two_prize .got_prize_btn {
+    left:39%;
+    bottom: .456rem;
+    height: .256rem;
+    width:.75rem ;
+}
+.two_prize .got_btn_t{
+    bottom: -.6rem
+}
+
+.my-prize-T .ti-xian{
+    width:.7594rem !important;
+    height: .256rem !important;
+}
+
+
+.coupon-quan{
+    width:2.948rem ;
+    height: .97rem;
+    margin-top: .085rem;
+    margin-left: .128rem;
+
+}
+.coupon-quan .coupon-img{
+    width:2.948rem ;
+    height: .97rem;
+    position: absolute;
+    left:0;
+    top:0
+}
+.look-coupon{
+    width:.819rem;
+    height: .20rem;
+    position: absolute;
+    bottom: .146rem;
+
+}
+.lucky-time{
+    position: absolute;
+    font-size: .11946rem;
+    left: 37%;
+    bottom: 47%;
+}
+.go-city{
+    right:.328rem
+}
+.cou-pon{
+    left:.328rem
+}

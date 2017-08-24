@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+.searchbox {
+	width: 2.415rem;
+	height: 0.29rem;
+margin-left:.1rem;
+	padding-top: 0.07rem;
+	position: relative;
+	z-index: 99;
+}
+.searchbox .l {
+	padding-left: 0.14rem;
+	height: 0.29rem;
+}
+.searchbox .m {
+	height: 0.29rem;
+}
+.searchbox .m .searchkey {
+	outline: none;
+	border: 1px solid #fff;
+	padding: 0.08rem 0;
+	height: 0.11rem;
+	line-height: 0.11rem;
+	background: none;
+	font-size: 0.095rem;
+	font-weight: bold;
+	color: #fdc24f;
+	width: 1.45rem;
+	float: left;
+	font-family: "microsoft yahei";
+}
+.searchbox .m .searchcleanbut {
+	cursor: pointer;
+	border: 1px solid #fff;
+	;
+	width: 0.1rem;
+	height: 0.29rem;
+	float: left;
+}
+.searchbox .m .searchbut {
+	background: #fdc24f;
+	cursor: pointer;
+	border-left: none;
+	border-right: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	border-top: 1px solid #fff;
+	width: 0.61rem;
+	height: 0.31rem;
+	float: right;
+}
+.searchbox .m .searchbutfocus {
+	background-position: -0.77rem -0.575rem;
+}
+.searchbox {
+	width: 2.8rem;
+}
+.searchbox .m .searchkey {
+	border-left: 1px solid #fff;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	border-right: none;
+	padding: 0.09rem 0;
+	height: 0.11rem;
+	line-height: 0.11rem;
+	background: none;
+	font-size: 0.095rem;
+	font-weight: bold;
+	color: #fdc24f;
+	width: 2.04rem;
+	float: left;
+}
